@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🎶 Hệ thống MuTraPro
 - MuTraPro (Music Transcription & Production) là một nền tảng tích hợp, được xây dựng trên kiến trúc microservices , cung cấp các dịch vụ ký âm, phối khí và sản xuất âm nhạc theo yêu cầu một cách hiệu quả và liền mạch.
 
@@ -115,3 +116,6 @@ docker-compose up --build -d
     - Nếu một service bị lỗi (ví dụ: order-service), bạn có thể xem log của nó: docker-compose logs -f order-service
     - (Thay order-service bằng tên service bạn muốn xem, ví dụ: auth-service, web-app...)
 
+=======
+# Mutrapro
+>>>>>>> 42d6ddf9b1b486b433725c3a84b10c6efd38ed76
